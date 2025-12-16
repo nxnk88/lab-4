@@ -55,7 +55,7 @@
 На виртуальной машине Ubuntu был запущен Team Server Cobalt Strike:
 
 **Скриншот:**
-`screenshots/01.jpg`
+`screenshots/1.jpg`
 
 ---
 
