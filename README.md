@@ -1,4 +1,4 @@
-<img width="898" height="828" alt="image" src="https://github.com/user-attachments/assets/b0a2fdf4-6916-4cb5-890d-ba98dd30eb22" />
+
 # Лабораторная работа №4  
 ## Средства постэксплуатации. Анализ Command & Control фреймворка
 
