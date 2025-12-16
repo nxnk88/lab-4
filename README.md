@@ -44,7 +44,7 @@
 
 На сервере Ubuntu был запущен Team Server Cobalt Strike:
 
-![Bash](screenshots/01.jpg)
+![Bash](screenshots/1.jpg)
 
 Сервер ожидает подключение клиента управления.
 
