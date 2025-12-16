@@ -83,12 +83,11 @@
 
 ### Доступные типы payload:
 
-* Windows Stager Payload
-* Windows Stageless Payload
-* HTML Application
-* Office Macro
-
-Stager используется для загрузки основного Beacon с сервера.
+* Windows Stager Payload — минимальный загрузчик, который после запуска скачивает основной Beacon с сервера.
+* Windows Stageless Payload — Beacon целиком встроен в файл.
+* HTML Application / MS Office Macro — используются в фишинговых атаках.
+* Stageless Generate All Payloads — генерация всех вариантов.
+* Stager используется для загрузки основного Beacon с сервера.
 
 ![Генерация Windows Stager Payload](screenshots/05.jpg)
 
